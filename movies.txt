@@ -5,8 +5,7 @@ Eybbus favorite movie: die hard 1 og 2 og 3 og 4 og 5 og 6 en 7 og 8 eru ekki ko
 
 Kolbeinsson88  favorite movies: Hellbound, Die Hard and Gladiator
 
-<<<<<<< HEAD
+
 dannikobb: jolaosk bellu
-=======
 Bean: Triple Danger III 3
->>>>>>> 35d074fe448bf033f4a88e2cf8b03164cf69c683
+
